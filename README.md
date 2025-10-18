@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhinav Saxena</h1>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/81240b57-e8ec-4b30-8e6e-92981d0f9197" />
+
+
+<!-- <h1 align="center">Hi 👋, I'm Abhinav Saxena</h1> -->
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavsaxena2308&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavsaxena2308" /> </p>
