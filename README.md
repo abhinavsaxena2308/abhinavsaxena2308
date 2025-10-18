@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavsaxena2308" alt="abhinavsaxena2308" /></a> </p>
 
-- 🔭 I’m currently working on **InstantCakeEcom**
+- 🔭 I’m currently working on **AI Resume Builder**
 
 - 🌱 I’m currently learning **App Development**
 
