@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavsaxena2308" alt="abhinavsaxena2308" /></a> </p>
 
-- 🔭 I’m currently working on **AI Resume Builder**
+- 🔭 I’m currently working on **Task Flow - Work Manager**
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **GoLang - Echo**
 
-- 👯 I’m looking to collaborate on **Microservices**
+- 👯 I’m looking to collaborate on **React Based Projects**
 
-- 🤝 I’m looking for help with **MERN**
+- 🤝 I’m looking for help with **Go Services**
 
 - 💬 Ask me about **React**
 
