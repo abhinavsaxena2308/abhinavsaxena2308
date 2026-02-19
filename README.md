@@ -1,4 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/81240b57-e8ec-4b30-8e6e-92981d0f9197" />
+![Uploading White Minimalist Profile LinkedIn Banner.png…]()
+
 
 
 <!-- <h1 align="center">Hi 👋, I'm Abhinav Saxena</h1> -->
