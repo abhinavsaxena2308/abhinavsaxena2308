@@ -33,6 +33,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavsaxena2308&theme=tokyonight)
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinavsaxena2308&theme=tokyo-night)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavsaxena2308&show_icons=true&locale=en&layout=compact" alt="abhinavsaxena2308" /></p>
 
