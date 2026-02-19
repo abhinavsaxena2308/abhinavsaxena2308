@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Abhinav Saxena</h1>
 <h3 align="center">A Passionate frontend and backend developer from India</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Go+Backend+Engineer;UI+UX+Designer&center=true&width=500&height=45">
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinavsaxena2308&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -19,6 +21,7 @@
 - 📫 Reach me at: **abhinav.2025@iic.ac.in**
 
 ---
+
 
 ## 🌐 Connect With Me
 
