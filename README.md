@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Task Flow - Work Manager**
+- 🔭 Currently working on **SynthoraAI - Powerfull AI Content Creator**
 - 🌱 Learning **GoLang - Echo Framework**
 - 👯 Open to collaborate on **React Based Projects**
 - 🤝 Exploring **Scalable Go Services**
