@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+![](https://github-trophies.vercel.app/?username=abhinavsaxena2308)
 ## 🚀 About Me
 
 - 🔭 Currently working on **SynthoraAI - Powerfull AI Content Creator**
