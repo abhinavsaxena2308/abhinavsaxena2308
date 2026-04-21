@@ -13,7 +13,7 @@
 ![](https://github-trophies.vercel.app/?username=abhinavsaxena2308)
 ## 🚀 About Me
 
-- 🔭 Currently working on **SynthoraAI - Powerfull AI Content Creator**
+- 🔭 Currently working on **Inspectra - Code Reviewing system**
 - 🌱 Learning **GoLang - Echo Framework**
 - 👯 Open to collaborate on **React Based Projects**
 - 🤝 Exploring **Scalable Go Services**
